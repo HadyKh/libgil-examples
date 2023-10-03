@@ -27,6 +27,6 @@ LibIGL, short for "librairie for Geometric Learning," is an open-source C++ libr
 > 7. **Python bindings**:
     - LibIGL can be used with Python through its Python bindings, which allow you to access LibIGL's functionality within a Python environment. These Python bindings make it easier for Python developers to take advantage of LibIGL's geometric processing capabilities without writing C++ code directly.
 
-    - Installation `pip install pyigl`
+    - Installation `pip install libigl`
 
-    - Importing `import pyigl as igl`
+    - Importing `import igl`
